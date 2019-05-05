@@ -109,6 +109,7 @@
     <Compile Include="Assets\EliminarPjGiran.cs" />
     <Compile Include="Assets\EliminarPjGiranDer.cs" />
     <Compile Include="Assets\EliminarPjPuerta2.cs" />
+    <Compile Include="Assets\EliminarPuerta3.cs" />
     <Compile Include="Assets\HG.cs" />
     <Compile Include="Assets\Tomando.cs" />
   </ItemGroup>

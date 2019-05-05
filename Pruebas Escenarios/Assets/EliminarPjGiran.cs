@@ -13,7 +13,7 @@ public class EliminarPjGiran : MonoBehaviour
     {
 
 
-        if (this.transform.position.x >= -6)
+        if (this.transform.position.x >= -8.3 )
         {
             anim.SetFloat("Girar", 1.0f);
           
