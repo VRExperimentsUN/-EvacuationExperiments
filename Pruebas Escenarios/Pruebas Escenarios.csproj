@@ -51,65 +51,83 @@
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEngine">
-      <HintPath>C:/Program Files/Unity5.6/Editor/Data/Managed/UnityEngine.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Program Files/Unity5.6/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Networking">
-      <HintPath>C:/Program Files/Unity5.6/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>C:/Program Files/Unity5.6/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>C:/Program Files/Unity5.6/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
-      <HintPath>C:/Program Files/Unity5.6/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.HoloLens">
-      <HintPath>C:/Program Files/Unity5.6/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VR">
-      <HintPath>C:/Program Files/Unity5.6/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
-      <HintPath>C:/Program Files/Unity5.6/Editor/Data/Managed/UnityEditor.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ComenzarPJ1.cs" />
-    <Compile Include="Assets\ComenzarPJ10.cs" />
-    <Compile Include="Assets\ComenzarPJ11.cs" />
-    <Compile Include="Assets\ComenzarPJ12.cs" />
-    <Compile Include="Assets\ComenzarPJ13.cs" />
-    <Compile Include="Assets\ComenzarPJ14.cs" />
-    <Compile Include="Assets\ComenzarPJ15.cs" />
-    <Compile Include="Assets\ComenzarPJ19.cs" />
-    <Compile Include="Assets\ComenzarPJ2.cs" />
-    <Compile Include="Assets\ComenzarPJ20.cs" />
-    <Compile Include="Assets\ComenzarPJ21.cs" />
-    <Compile Include="Assets\ComenzarPJ22.cs" />
-    <Compile Include="Assets\ComenzarPJ23.cs" />
-    <Compile Include="Assets\ComenzarPJ24.cs" />
-    <Compile Include="Assets\ComenzarPJ25.cs" />
-    <Compile Include="Assets\ComenzarPJ3.cs" />
-    <Compile Include="Assets\ComenzarPJ4.cs" />
-    <Compile Include="Assets\ComenzarPJ5.cs" />
-    <Compile Include="Assets\ComenzarPJ6.cs" />
-    <Compile Include="Assets\ComenzarPJ7.cs" />
-    <Compile Include="Assets\ComenzarPJ8.cs" />
-    <Compile Include="Assets\ComenzarPJ9.cs" />
-    <Compile Include="Assets\ComenzarPj18.cs" />
-    <Compile Include="Assets\Comienzo.cs" />
-    <Compile Include="Assets\ComienzoPJ17.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ1.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ10.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ11.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ12.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ13.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ14.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ15.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ19.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ2.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ20.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ21.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ22.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ23.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ24.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ25.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ26.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ27.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ28.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ29.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ3.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ30.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ31.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ32.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ33.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ34.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ35.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ36.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ37.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ38.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ39.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ4.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ40.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ41.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ42.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ43.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ5.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ6.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ7.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ8.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPJ9.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComenzarPj18.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comienzo.cs" />
+    <Compile Include="Assets\ComenzarScripts\ComienzoPJ17.cs" />
     <Compile Include="Assets\DelayPrueba.cs" />
-    <Compile Include="Assets\EliminarPj.cs" />
-    <Compile Include="Assets\EliminarPjGiran.cs" />
-    <Compile Include="Assets\EliminarPjGiranDer.cs" />
-    <Compile Include="Assets\EliminarPjPuerta2.cs" />
-    <Compile Include="Assets\EliminarPuerta3.cs" />
+    <Compile Include="Assets\EliminarScripts\EliminarPj.cs" />
+    <Compile Include="Assets\EliminarScripts\EliminarPjGiran.cs" />
+    <Compile Include="Assets\EliminarScripts\EliminarPjGiranDer.cs" />
+    <Compile Include="Assets\EliminarScripts\EliminarPjPuerta2.cs" />
+    <Compile Include="Assets\EliminarScripts\EliminarPuerta3.cs" />
     <Compile Include="Assets\HG.cs" />
     <Compile Include="Assets\Tomando.cs" />
   </ItemGroup>
