@@ -46,6 +46,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Comenzar12PJ1.cs" />
+     <Compile Include="Assets\Comenzar12PJ2.cs" />
+     <Compile Include="Assets\Comenzar12PJ3.cs" />
+     <Compile Include="Assets\Comenzar12PJ4.cs" />
+     <Compile Include="Assets\Comenzar12PJ5.cs" />
+     <Compile Include="Assets\Comenzar12PJ6.cs" />
+     <Compile Include="Assets\ComenzarPJ44.cs" />
+     <Compile Include="Assets\ComenzarPJ45.cs" />
+     <Compile Include="Assets\ComenzarPJ46.cs" />
+     <Compile Include="Assets\ComenzarPJ47.cs" />
      <Compile Include="Assets\ComenzarScripts\ComenzarPJ1.cs" />
      <Compile Include="Assets\ComenzarScripts\ComenzarPJ10.cs" />
      <Compile Include="Assets\ComenzarScripts\ComenzarPJ11.cs" />
