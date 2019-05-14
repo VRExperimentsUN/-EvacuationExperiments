@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Comenzar12PJ5 : MonoBehaviour {
 
+	public Animator anim;
 	// Use this for initialization
 	void Start () {
 		
@@ -11,6 +12,17 @@ public class Comenzar12PJ5 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		if(this.transform.position.z >= -2.905 && this.transform.position.z <= -2.30){ 
+			anim.SetFloat ("Empezar", 1.0f);
+
+
+			}else{
+				anim.SetFloat ("Empezar", 0.0f);
+
+		}
+
+
+
+		print ("pj5 " + this.transform.position.z);
 	}
 }
