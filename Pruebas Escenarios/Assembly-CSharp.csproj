@@ -65,6 +65,7 @@
      <Compile Include="Assets\Comenzar12PJ7.cs" />
      <Compile Include="Assets\Comenzar12PJ8.cs" />
      <Compile Include="Assets\Comenzar12PJ9.cs" />
+     <Compile Include="Assets\Comenzar47.cs" />
      <Compile Include="Assets\ComenzarPJ44.cs" />
      <Compile Include="Assets\ComenzarPJ45.cs" />
      <Compile Include="Assets\ComenzarPJ46.cs" />
