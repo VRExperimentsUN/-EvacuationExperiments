@@ -22,6 +22,5 @@ public class Comenzar12PJ4 : MonoBehaviour {
 		}
 
 
-		print ("pj4 " + this.transform.position.z);
 	}
 }

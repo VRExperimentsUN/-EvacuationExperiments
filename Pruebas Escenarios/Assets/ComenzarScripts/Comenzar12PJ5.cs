@@ -22,7 +22,5 @@ public class Comenzar12PJ5 : MonoBehaviour {
 		}
 
 
-
-		print ("pj5 " + this.transform.position.z);
 	}
 }

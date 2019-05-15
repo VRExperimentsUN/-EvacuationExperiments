@@ -19,7 +19,6 @@ public class Comenzar12PJ2 : MonoBehaviour {
 				anim.SetFloat ("Empezar", 0.0f);
 
 		}
-		print("pj2 "+this.transform.position.z);
 
 	}
 }

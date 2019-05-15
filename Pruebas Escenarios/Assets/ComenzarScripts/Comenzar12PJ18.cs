@@ -4,13 +4,23 @@ using UnityEngine;
 
 public class Comenzar12PJ18 : MonoBehaviour {
 
+
+
+	public Animator anim;
+
 	// Use this for initialization
 	void Start () {
-		
+
 	}
-	
-	// Update is called once per frame
+
 	void Update () {
-		
-	}
-}
+		if(this.transform.position.z >= -23.23934  && this.transform.position.z <= -21.90856){ 
+			anim.SetFloat ("Empezar", 1.0f);
+
+
+		}else{
+			anim.SetFloat ("Empezar", 0.0f);
+
+		} 
+		print("pj18: "+this.transform.position.z);
+	}}
