@@ -79,6 +79,26 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Comenzar12P10.cs" />
+    <Compile Include="Assets\Comenzar12P11.cs" />
+    <Compile Include="Assets\Comenzar12P14.cs" />
+    <Compile Include="Assets\Comenzar12P16.cs" />
+    <Compile Include="Assets\Comenzar12P17.cs" />
+    <Compile Include="Assets\Comenzar12P18.cs" />
+    <Compile Include="Assets\Comenzar12PJ1.cs" />
+    <Compile Include="Assets\Comenzar12PJ12.cs" />
+    <Compile Include="Assets\Comenzar12PJ13.cs" />
+    <Compile Include="Assets\Comenzar12PJ15.cs" />
+    <Compile Include="Assets\Comenzar12PJ18.cs" />
+    <Compile Include="Assets\Comenzar12PJ2.cs" />
+    <Compile Include="Assets\Comenzar12PJ3.cs" />
+    <Compile Include="Assets\Comenzar12PJ4.cs" />
+    <Compile Include="Assets\Comenzar12PJ5.cs" />
+    <Compile Include="Assets\Comenzar12PJ6.cs" />
+    <Compile Include="Assets\Comenzar12PJ7.cs" />
+    <Compile Include="Assets\Comenzar12PJ8.cs" />
+    <Compile Include="Assets\Comenzar12PJ9.cs" />
+    <Compile Include="Assets\Comenzar47.cs" />
     <Compile Include="Assets\ComenzarPJ44.cs" />
     <Compile Include="Assets\ComenzarPJ45.cs" />
     <Compile Include="Assets\ComenzarPJ46.cs" />
