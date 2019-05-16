@@ -79,6 +79,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Comenzar12P19.cs" />
+    <Compile Include="Assets\Comenzar12P20.cs" />
+    <Compile Include="Assets\Comenzar12P21.cs" />
+    <Compile Include="Assets\Comenzar12P22.cs" />
     <Compile Include="Assets\Comenzar13PJ1.cs" />
     <Compile Include="Assets\Comenzar13PJ2.cs" />
     <Compile Include="Assets\Comenzar13PJ3.cs" />
@@ -92,7 +96,6 @@
     <Compile Include="Assets\ComenzarScripts\Comenzar12P14.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar12P16.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar12P17.cs" />
-    <Compile Include="Assets\ComenzarScripts\Comenzar12P18.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar12PJ1.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar12PJ12.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar12PJ13.cs" />
