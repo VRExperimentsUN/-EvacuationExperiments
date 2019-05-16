@@ -13,7 +13,7 @@ public class EliminarPjPuerta2 : MonoBehaviour
     {
 
 
-        if (this.transform.position.z <= -27)
+        if (this.transform.position.z <= -40)
         {
             Destruction();
         }
