@@ -11,6 +11,13 @@ public class Comenzar14PJ9 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        print(this.transform.position.x+" PJ 9");
+        if (this.transform.position.x >= -5.51 && this.transform.position.x <=- 4.43)
+        {
+            anim.SetFloat("Empezar", 1.0f);
+        }
+        else
+        {
+            anim.SetFloat("Empezar", 0.0f);
+        }
 	}
 }
