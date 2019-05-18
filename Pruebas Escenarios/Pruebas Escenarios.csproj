@@ -79,25 +79,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Comenzae13PJ16.cs" />
-    <Compile Include="Assets\Comenzar13PJ13.cs" />
-    <Compile Include="Assets\Comenzar13PJ14.cs" />
-    <Compile Include="Assets\Comenzar13PJ15.cs" />
-    <Compile Include="Assets\Comenzar13PJ17.cs" />
-    <Compile Include="Assets\Comenzar13PJ18.cs" />
-    <Compile Include="Assets\Comenzar13PJ19.cs" />
-    <Compile Include="Assets\Comenzar13PJ20.cs" />
-    <Compile Include="Assets\Comenzar13PJ21.cs" />
-    <Compile Include="Assets\Comenzar13PJ22.cs" />
-    <Compile Include="Assets\Comenzar13PJ23.cs" />
-    <Compile Include="Assets\Comenzar13PJ24.cs" />
-    <Compile Include="Assets\Comenzar13PJ25.cs" />
-    <Compile Include="Assets\Comenzar13PJ26.cs" />
-    <Compile Include="Assets\Comenzar13PJ27.cs" />
-    <Compile Include="Assets\Comenzar13PJ28.cs" />
-    <Compile Include="Assets\Comenzar13PJ29.cs" />
-    <Compile Include="Assets\Comenzar13PJ30.cs" />
-    <Compile Include="Assets\Comenzar13PJ31.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzae13PJ16.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar12P10.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar12P11.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar12P14.cs" />
@@ -124,8 +106,26 @@
     <Compile Include="Assets\ComenzarScripts\Comenzar13PJ10.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar13PJ11.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar13PJ12.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ13.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ14.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ15.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ17.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ18.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ19.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar13PJ2.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ20.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ21.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ22.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ23.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ24.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ25.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ26.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ27.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ28.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ29.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar13PJ3.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ30.cs" />
+    <Compile Include="Assets\ComenzarScripts\Comenzar13PJ31.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar13PJ4.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar13PJ5.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar13PJ6.cs" />
