@@ -11,6 +11,13 @@ public class EliminarPjPuerta4 : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
-	}
+        if (this.transform.position.x <= -35)
+        {
+            Destruction();
+        }
+    }
+    void Destruction()
+    {
+        Destroy(this.gameObject);
+    }
 }
