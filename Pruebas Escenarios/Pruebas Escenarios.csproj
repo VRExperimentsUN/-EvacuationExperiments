@@ -79,6 +79,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Comenzar14PJ1.cs" />
+    <Compile Include="Assets\Comenzar14PJ10.cs" />
+    <Compile Include="Assets\Comenzar14PJ11.cs" />
+    <Compile Include="Assets\Comenzar14PJ12.cs" />
+    <Compile Include="Assets\Comenzar14PJ13.cs" />
+    <Compile Include="Assets\Comenzar14PJ14.cs" />
+    <Compile Include="Assets\Comenzar14PJ15.cs" />
+    <Compile Include="Assets\Comenzar14PJ16.cs" />
+    <Compile Include="Assets\Comenzar14PJ2.cs" />
+    <Compile Include="Assets\Comenzar14PJ3.cs" />
+    <Compile Include="Assets\Comenzar14PJ4.cs" />
+    <Compile Include="Assets\Comenzar14PJ5.cs" />
+    <Compile Include="Assets\Comenzar14PJ6.cs" />
+    <Compile Include="Assets\Comenzar14PJ7.cs" />
+    <Compile Include="Assets\Comenzar14PJ8.cs" />
+    <Compile Include="Assets\Comenzar14PJ9.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzae13PJ16.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar12P10.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar12P11.cs" />
@@ -181,6 +197,7 @@
     <Compile Include="Assets\ComenzarScripts\Comienzo.cs" />
     <Compile Include="Assets\ComenzarScripts\ComienzoPJ17.cs" />
     <Compile Include="Assets\DelayPrueba.cs" />
+    <Compile Include="Assets\EliminarPJPuerta2Nuevo.cs" />
     <Compile Include="Assets\EliminarPjPuerta4.cs" />
     <Compile Include="Assets\EliminarScripts\EliminarPj.cs" />
     <Compile Include="Assets\EliminarScripts\EliminarPjGiran.cs" />
