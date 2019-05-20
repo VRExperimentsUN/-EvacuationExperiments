@@ -100,7 +100,11 @@
     <Compile Include="Assets\Comenzar14PJ26.cs" />
     <Compile Include="Assets\Comenzar14PJ27.cs" />
     <Compile Include="Assets\Comenzar14PJ28.cs" />
+    <Compile Include="Assets\Comenzar14PJ29.cs" />
     <Compile Include="Assets\Comenzar14PJ3.cs" />
+    <Compile Include="Assets\Comenzar14PJ30.cs" />
+    <Compile Include="Assets\Comenzar14PJ31.cs" />
+    <Compile Include="Assets\Comenzar14PJ32.cs" />
     <Compile Include="Assets\Comenzar14PJ4.cs" />
     <Compile Include="Assets\Comenzar14PJ5.cs" />
     <Compile Include="Assets\Comenzar14PJ6.cs" />
