@@ -13,7 +13,8 @@ public class Comenzar12PJ12 : MonoBehaviour {
 	}
 
 	void Update () {
-		if(this.transform.position.z >= -24.341 && this.transform.position.z <= -23.49988){ 
+
+		if(this.transform.position.z <= -23.5573 && this.transform.position.z >= -24.18401){ 
 			anim.SetFloat ("Empezar", 1.0f);
 
 
@@ -21,6 +22,5 @@ public class Comenzar12PJ12 : MonoBehaviour {
 			anim.SetFloat ("Empezar", 0.0f);
 
 		} 
-		print("pj12: "+this.transform.position.z);
 	}
 }

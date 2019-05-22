@@ -13,14 +13,14 @@ public class Comenzar12P14 : MonoBehaviour {
 	}
 
 	void Update () {
-		if(this.transform.position.z >= -22.78128 && this.transform.position.z <= -21.3205){ 
+
+		if(this.transform.position.z <= -21.27701 && this.transform.position.z >= -22.5986){ 
 			anim.SetFloat ("Empezar", 1.0f);
 
 
 		}else{
 			anim.SetFloat ("Empezar", 0.0f);
 
-		} 
-		print("pj14: "+this.transform.position.z);
+		}
 	}
 }
