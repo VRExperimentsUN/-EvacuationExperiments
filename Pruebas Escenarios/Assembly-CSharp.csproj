@@ -46,6 +46,22 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Comenzar14PJ33.cs" />
+     <Compile Include="Assets\Comenzar14PJ34.cs" />
+     <Compile Include="Assets\Comenzar14PJ35.cs" />
+     <Compile Include="Assets\Comenzar14PJ36.cs" />
+     <Compile Include="Assets\Comenzar14PJ37.cs" />
+     <Compile Include="Assets\Comenzar14PJ38.cs" />
+     <Compile Include="Assets\Comenzar14PJ39.cs" />
+     <Compile Include="Assets\Comenzar14PJ40.cs" />
+     <Compile Include="Assets\Comenzar14PJ41.cs" />
+     <Compile Include="Assets\Comenzar14PJ42.cs" />
+     <Compile Include="Assets\Comenzar14PJ43.cs" />
+     <Compile Include="Assets\Comenzar14PJ44.cs" />
+     <Compile Include="Assets\Comenzar14PJ45.cs" />
+     <Compile Include="Assets\Comenzar14PJ46.cs" />
+     <Compile Include="Assets\Comenzar14PJ47.cs" />
+     <Compile Include="Assets\Comenzar14PJ48.cs" />
      <Compile Include="Assets\Comenzar15PJ2.cs" />
      <Compile Include="Assets\Comenzar15Pj10.cs" />
      <Compile Include="Assets\Comenzar15Pj11.cs" />
