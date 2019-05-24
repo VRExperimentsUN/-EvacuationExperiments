@@ -87,7 +87,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 270
+    width: 269
     height: 364
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -248,9 +248,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 270
+    x: 269
     y: 0
-    width: 819
+    width: 820
     height: 364
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
@@ -335,9 +335,9 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8c740000
-    m_LastClickedID: 29836
-    m_ExpandedIDs: 000000008c740000b8780000f8780000be7a00003c7b0000527b0000667b0000687b00006a7b0000ae7b000072800000d280000084810000aa840000c08600000e8800007e890000cc8900008a8c000082910000b8a10000baa1000000ca9a3bffffff7f
+    m_SelectedIDs: 52260000
+    m_LastClickedID: 9810
+    m_ExpandedIDs: 0000000052260000b62c0000b22f00007e300000ba300000c03000002c31000028390000f23900001e3b0000e243000064460000e248000060490000444e000006550000da6c0000dc6c000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -365,7 +365,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008c740000b8780000f8780000be7a00003c7b0000527b0000667b0000687b00006a7b0000ae7b000072800000d280000084810000aa840000c08600000e8800007e890000cc8900008a8c000082910000b8a10000baa10000
+    m_ExpandedIDs: 0000000052260000b62c0000b22f00007e300000ba300000c03000002c31000028390000f23900001e3b0000e243000064460000e248000060490000444e000006550000da6c0000dc6c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -477,13 +477,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 92
-    width: 268
+    width: 267
     height: 343
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 6a7dfbff00000000
+    m_ExpandedIDs: e2fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -502,7 +502,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 0}
     m_SearchString: 
   m_ExpandedScenes:
-  - ColiseoPrueba1_5
+  - ColiseoPrueba1
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -528,9 +528,9 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
-    x: 272
+    x: 271
     y: 92
-    width: 815
+    width: 816
     height: 343
   m_SceneLighting: 1
   lastFramingTime: 0
