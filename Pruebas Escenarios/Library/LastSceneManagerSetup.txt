@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/ColiseoPrueba1_4.unity
+=======
+- path: Assets/ColiseoPrueba1_5.unity
+>>>>>>> bc05d4e62dc67d70032163935d9bc3857d853f76
   isLoaded: 1
   isActive: 1
