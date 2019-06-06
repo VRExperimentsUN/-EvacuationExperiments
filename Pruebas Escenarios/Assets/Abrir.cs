@@ -6,7 +6,7 @@ public class Abrir : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        Invoke("Destruir", 29);
+        Invoke("Destruir", 22);
 
     }
 	
