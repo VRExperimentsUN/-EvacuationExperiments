@@ -330,13 +330,22 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\Usuario\Desktop\EvacuationExperiments\Pruebas Escenarios
+=======
+  m_LastProjectPath: C:\Users\Sebastian Viloria\Desktop\Evacuaciones\EvacuationExperiments\Pruebas
+    Escenarios
+>>>>>>> f7c1b04f52601c1028e6863f525129a8bf742d0b
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 54260000
     m_LastClickedID: 9812
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000054260000b62a0000822c0000f82c0000f62f0000c4300000e230000000310000023100000631000074310000d6330000803900004a3a00007a3b0000323f0000f240000070440000fa46000080490000004a0000464f000012560000725800007458000000ca9a3bffffff7f
+=======
+    m_ExpandedIDs: 0000000054260000b42a0000802c0000f62c0000f22f0000c0300000de300000fc300000fe300000023100007031000008340000b6390000803a0000b03b0000ea3d00006a3f00002a410000a84400003247000002480000b8490000384a00007c4f00007e560000f25e0000f45e000000ca9a3bffffff7f
+>>>>>>> f7c1b04f52601c1028e6863f525129a8bf742d0b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -364,7 +373,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000054260000b62a0000822c0000f82c0000f62f0000c4300000e230000000310000023100000631000074310000d6330000803900004a3a00007a3b0000323f0000f240000070440000fa46000080490000004a0000464f0000125600007258000074580000
+=======
+    m_ExpandedIDs: 0000000054260000b42a0000802c0000f62c0000f22f0000c0300000de300000fc300000fe300000023100007031000008340000b6390000803a0000b03b0000ea3d00006a3f00002a410000a84400003247000002480000b8490000384a00007c4f00007e560000f25e0000f45e0000
+>>>>>>> f7c1b04f52601c1028e6863f525129a8bf742d0b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -408,7 +421,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 5}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -416,7 +429,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 43.5}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 115
 --- !u!114 &14
@@ -480,9 +493,15 @@ MonoBehaviour:
     height: 343
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 405b0000
     m_LastClickedID: 23360
     m_ExpandedIDs: 68f9ffffe6fbffff00000000
+=======
+    m_SelectedIDs: 125a0000
+    m_LastClickedID: 23058
+    m_ExpandedIDs: e4fbffff00000000
+>>>>>>> f7c1b04f52601c1028e6863f525129a8bf742d0b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -501,7 +520,11 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 0}
     m_SearchString: 
   m_ExpandedScenes:
+<<<<<<< HEAD
   - ColiseoPrueba1
+=======
+  - B1S2
+>>>>>>> f7c1b04f52601c1028e6863f525129a8bf742d0b
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -537,9 +560,15 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -7.1548195, y: -0.10723066, z: -4.879902}
     speed: 2
     m_Value: {x: -7.1548195, y: -0.10723066, z: -4.879902}
+=======
+    m_Target: {x: 7.949718, y: -1.4063797, z: -11.620981}
+    speed: 2
+    m_Value: {x: 7.949718, y: -1.4063797, z: -11.620981}
+>>>>>>> f7c1b04f52601c1028e6863f525129a8bf742d0b
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -562,6 +591,7 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: 0.07841939, y: 0.9159159, z: -0.22007649, w: 0.3263662}
     speed: 2
     m_Value: {x: 0.07841939, y: 0.9159159, z: -0.22007649, w: 0.3263662}
@@ -569,6 +599,15 @@ MonoBehaviour:
     m_Target: 10
     speed: 2
     m_Value: 10
+=======
+    m_Target: {x: 0.25676814, y: 0.51161194, z: -0.163494, w: 0.8034881}
+    speed: 2
+    m_Value: {x: 0.25676814, y: 0.51161194, z: -0.163494, w: 0.8034881}
+  m_Size:
+    m_Target: 12.197695
+    speed: 2
+    m_Value: 12.197695
+>>>>>>> f7c1b04f52601c1028e6863f525129a8bf742d0b
   m_Ortho:
     m_Target: 0
     speed: 2
