@@ -1,4 +1,12 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/B3S2.unity
+=======
+<<<<<<< HEAD
+- path: Assets/B1S5.unity
+=======
+- path: Assets/B1S6.unity
+>>>>>>> fadf75965dc7a2b47eddce5cc8e4d7465f081e3e
+>>>>>>> 53d1a2c8b6a6d0d09bbed09419fcfadf30ddccfe
   isLoaded: 1
   isActive: 1
