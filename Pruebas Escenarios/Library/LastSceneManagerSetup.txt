@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/B3S1.unity
-=======
-- path: Assets/B3S5.unity
->>>>>>> e5a099d8499550361e8c0deb88ac5e4ecdc64c65
+- path: Assets/B3S3.unity
   isLoaded: 1
   isActive: 1
