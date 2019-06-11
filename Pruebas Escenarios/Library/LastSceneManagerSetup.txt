@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/B3S3.unity
+=======
+- path: Assets/Slow.unity
+>>>>>>> 30ba2fd7fd39b6a95cb5bf74e7ff248ea6301776
   isLoaded: 1
   isActive: 1
