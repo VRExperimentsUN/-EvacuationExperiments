@@ -80,6 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Abrir.cs" />
+    <Compile Include="Assets\Abrir2.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzae13PJ16.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar12P10.cs" />
     <Compile Include="Assets\ComenzarScripts\Comenzar12P11.cs" />
